@@ -2404,7 +2404,7 @@
 			"techniqueID": "T1189",
 			"tactic": "initial-access",
 			"score": 1,
-			"color": "#3182bd",
+			"color": "",
 			"comment": "",
 			"enabled": true,
 			"metadata": [],
